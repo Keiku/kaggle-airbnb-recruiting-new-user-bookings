@@ -7,5 +7,7 @@ Note: This code should be differ from my submitted solution(Public:0.88209/Priva
 ### My Approach & Program Details.
 Please see [Airbnb New User Bookings, Winner’s Interview: 2nd place, Keiichi Kuroyanagi (@Keiku) | no free hunch](http://blog.kaggle.com/2016/03/17/airbnb-new-user-bookings-winners-interview-2nd-place-keiichi-kuroyanagi-keiku/)
 
+![solution](https://raw.githubusercontent.com/Keiku/kaggle-airbnb-recruiting-new-user-bookings/master/Learning_Architecture.png)
+
 ### How to run this program.
 Please edit run.R and execute run.R.
